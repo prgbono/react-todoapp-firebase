@@ -1,7 +1,7 @@
 import React from 'react';
 const Session = () => (
   <div>
-    <h1>App</h1>
+    <h1>Session</h1>
   </div>
 );
 export default Session;
